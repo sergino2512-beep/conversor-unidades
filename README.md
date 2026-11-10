@@ -14,7 +14,7 @@ Programa de consola en JavaScript (Node.js) que convierte valores entre unidades
 ## Ejecución
 
 ```bash
-git clone https://github.com/<tu-usuario>/conversor-unidades.git
+git clone https://github.com/sergino2512-beep/conversor-unidades.git
 cd conversor-unidades
 node app.js
 ```
